@@ -1,8 +1,8 @@
 package day_35;
 
 /*
-  to open new tab >>  driver.switchTo().newWindow(WindowType.TAB)
-  to open new window >>
+  to open new tab    >>  driver.switchTo().newWindow(WindowType.TAB)
+  to open new window >>  driver.switchTo().newWindow(WindowType.WINDOW);
  */
 
 import org.openqa.selenium.WebDriver;
